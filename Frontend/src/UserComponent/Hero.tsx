@@ -4,7 +4,6 @@ const Hero = () => {
   return (
     <div>
        <p>this is hero  section  </p>
-       <p>this is hero  section  </p>
        </div>
     
 
