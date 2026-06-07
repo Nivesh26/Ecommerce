@@ -7,6 +7,7 @@ const App = () => {
   <BrowserRouter>
   <Routes>
 
+    {/* User Pages */}
     <Route path='/' element={<Home />} />
 
   </Routes>
