@@ -2,7 +2,7 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <div c  lassName='bg-red-600'>This is hdader component
+    <div className=''  lassName='bg-red-600'>This is hdader component
     </div>
   )
 }
