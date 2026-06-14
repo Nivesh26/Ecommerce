@@ -6,4 +6,4 @@ const Header = () => {
     </div>
   )
 }
-export default HeaderWmake header
+export default Header
